@@ -1,0 +1,6 @@
+{
+  "name": "Advance Calculator",
+  "description": "An advanced iOS-style calculator with a built-in linear equation solver and a secure hidden vault folder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
